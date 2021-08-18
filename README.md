@@ -1,3 +1,6 @@
+**NOTE (August 2021): This repo is archived. Please see the list of projects on the [Adoption page](https://frictionlessdata.io/adoption/) of the Frictionless website. If you would like to have your project featured on the website, please reach out via Discord or open an issue on the [project repo](https://github.com/frictionlessdata/project/issues). Thanks!**
+
+
 # Awesome Frictionless [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of projects, use-cases and tools in the Frictionless ecosystem.
